@@ -13,10 +13,9 @@ TextVerse is a simple Text Editor app, that allows you to view or edit Plain tex
 # Download it now:
 Google Play: https://play.google.com/store/apps/details?id=com.JellyBeanUser.apk.app.editor
 
-# Our futute plans
+# Our future plans
 __on the App itself__
-- including Syntax highlighting for Swift, C, Objective-C, Dart (Flutter), PHP, Kotlin, Kotlin, Mathlab, Vala, Pearl, fish, F#, Fortran, GLSL, CUDA and many more
-Maybe, we'll also supporting the PGN notation for chess games
+- including Syntax highlighting for Swift, C, Objective-C, Dart (Flutter), PHP, Kotlin, Kotlin, Mathlab, Vala, Pearl, fish, F#, Fortran, GLSL, CUDA and many more. Maybe, we'll also supporting the PGN notation for chess games
 - optimizing the performance and improving the code quality
 - Cloud and network storage support
 
