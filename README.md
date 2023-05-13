@@ -27,3 +27,6 @@ __Porting the App__
 - Linux port in Rust for GTK, QT and Iced (for System76's upcoming Cosmic destop on Pop)
 - macOS port
 - iOS/iPadOS port
+
+__Other resources__
+Privacy policy: https://github.com/JellyBeanUser/textverse/blob/main/privacy-policy-md
