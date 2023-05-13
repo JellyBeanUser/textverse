@@ -5,7 +5,7 @@ TextVerse is a simple Text Editor app, that allows you to view or edit Plain tex
 # Features
 - Syntax highlighting for Java, C++, C#, HTML, Python, Rust, Bash, Lua, JavaScript, and Markdown
 - opening and saving text files on any folder on your phone/tablet
-- almost all encodings (including UTF-8)
+- It supports almost all text encodings (including UTF-8)
 - Dark mode (on devices with Android 10 or higher, it depends from your system settings)
 - changing font and text size
 - Line numbers
