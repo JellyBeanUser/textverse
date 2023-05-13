@@ -29,4 +29,4 @@ __Porting the App__
 - iOS/iPadOS port
 
 # Other resources
-Privacy policy: https://github.com/JellyBeanUser/textverse/blob/main/privacy-policy-md
+Privacy policy: https://github.com/JellyBeanUser/textverse/blob/main/privacy-policy.md
